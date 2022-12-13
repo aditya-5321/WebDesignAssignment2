@@ -1,9 +1,9 @@
 body {
-  background-image: url(https://github.com/aditya-5321/WebDesignAssignment2/blob/main/formBG.jpg);
+  background-image: url(formBG.jpg);
         background-position: center;
         background-size: cover;
         margin: 0;
-        height:70vw;
+        height: 100vw;
   padding:  50px;
   
   font-family: Copperplate, Papyrus, fantasy;
