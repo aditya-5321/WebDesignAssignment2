@@ -1,8 +1,12 @@
 body {
-  
+  background-image: url(formBG.jpg);
+        background-position: center;
+        background-size: cover;
+        margin: 0;
+        height:70vw;
   padding:  50px;
   
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Copperplate, Papyrus, fantasy;
 }
 
 * {
